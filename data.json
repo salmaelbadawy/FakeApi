@@ -1,5 +1,4 @@
-{
-    "users":[
+[
        {
           "id":1,
           "company":"Wiza - Gottlieb",
@@ -632,4 +631,4 @@
             ]
        }
     ]
- }
+ 
