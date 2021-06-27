@@ -1,0 +1,22 @@
+{
+          "id":int,
+          "company":string,
+          "name":string,
+          "image":string,
+          "email":string,
+          "gender":string,
+          "DOB":string,
+          "phone":string,
+          "posts": [
+            {
+              "text":string,
+              "image":string,
+              "likes":int,
+              "tags":[
+                 string,
+                 string,
+                 string
+              ],
+              "publishDate":string
+           }
+}
