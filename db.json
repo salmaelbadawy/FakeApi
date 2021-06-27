@@ -1,5 +1,4 @@
-{
-    "users":
+
 [
        {
           "id":1,
@@ -532,106 +531,7 @@
                "publishDate":"January 30, 2020"
             }
           ]
-       },
-       {
-          "id":14,
-          "company":"Schuppe Group",
-          "name":"Lynn Flatley",
-          "image":"https://randomuser.me/api/portraits/women/74.jpg",
-          "email":"Lynn.Flatley@gmail.com",
-          "gender":"Female",
-          "DOB":"October 1, 1990",
-          "phone":"(751) 254-4596",
-          "posts": [
-            {"text":"Can you believe this adorable little fella was left in a foster home? He's now with me in his forever home. Ladies and gentleman, meet Boomer! short-coat brown dog",
-               "image":"https://img.dummyapi.io/photo-1564027554404-fbb18eece7f0.jpg",
-               "likes":41,
-               "tags":[
-                 "nature",
-                 "outdoor",
-                 "mesa"
-               ],
-               "publishDate":"January 1, 2020"}      ,
-            {
-              "text":"Selective focus photography of white and grey puppy lying on sofa",
-              "image":"https://img.dummyapi.io/photo-1543554618-7e19c5e393d9.jpg",
-              "likes":51,
-              "tags":[
-                 "dog",
-                 "animal",
-                 "pet"
-              ],
-              "publishDate":"January 14, 2020"
-           },
-           {
-              "text":"A little older portrait photograph of white and gray dog",
-              "image":"https://img.dummyapi.io/photo-1575994964795-862a6b7b32d7.jpg",
-              "likes":86,
-              "tags":[
-                 "dog",
-                 "animal",
-                 "pet"
-              ],
-              "publishDate":"January 28, 2020"
-           }
-            ]
-       },
-       {
-          "id":15,
-          "company":"Wuckert LLC",
-          "name":"Georg Fiedler",
-          "image":"https://randomuser.me/api/portraits/men/81.jpg",
-          "email":"Georg.Fiedler@yahoo.com",
-          "gender":"Male",
-          "DOB":"January 1, 1990",
-          "phone":"(676) 911-2164",
-          "posts": [
-            {
-              "text":"Love & Mojitos red and green neon signage",
-              "image":"https://img.dummyapi.io/photo-1536029058117-75fb5c1c4c46.jpg",
-              "likes":51,
-              "tags":[
-                 "neon",
-                 "sign",
-                 "montreal"
-              ],
-              "publishDate":"January 1, 2020"
-           },
-           {
-              "text":"IG : alexisantoine1 white wolf",
-              "image":"https://img.dummyapi.io/photo-1577980888576-4ba53bae1c69.jpg",
-              "likes":86,
-              "tags":[
-                 "dog",
-                 "nature",
-                 "tree"
-              ],
-              "publishDate":"January 28, 2020"
-           },
-           {
-              "text":"The powerful and the playful. white and brown American Pit bull terrier on body of water during daytime",
-              "image":"https://img.dummyapi.io/photo-1524550390021-670246c412c5.jpg",
-              "likes":20,
-              "tags":[
-                 "dog",
-                 "grey",
-                 "water"
-              ],
-              "publishDate":"Febraury 28, 2020"
-           },
-           {
-              "text":"Friends will be friends white and black dogs on snow covered ground during daytime",
-              "image":"https://img.dummyapi.io/photo-1583762713699-7a6d1b8b6679.jpg",
-              "likes":80,
-              "tags":[
-                 "dog",
-                 "animal",
-                 "pet"
-              ],
-              "publishDate":"March 28, 2020"
-              }
-            ]
        }
     ]
 
-}
+
