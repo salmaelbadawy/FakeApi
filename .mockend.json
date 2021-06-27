@@ -1,3 +1,4 @@
+"users"
 {
           "id":int,
           "company":string,
@@ -7,16 +8,18 @@
           "gender":string,
           "DOB":string,
           "phone":string,
-          "posts": [
-            {
+          "posts": Posts[]
+}
+"Posts":
+          {
               "text":string,
               "image":string,
               "likes":int,
-              "tags":[
-                 string,
-                 string,
-                 string
+              "tags":Tags[
+                 
               ],
               "publishDate":string
            }
+"Tags":{
+          title:string"
 }
